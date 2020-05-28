@@ -1,0 +1,43 @@
+C:\Users\dtani\RiderProjects\SegundoParcial\bin\Debug\SegundoParcial.exe.config
+C:\Users\dtani\RiderProjects\SegundoParcial\bin\Debug\SegundoParcial.exe
+C:\Users\dtani\RiderProjects\SegundoParcial\bin\Debug\SegundoParcial.pdb
+C:\Users\dtani\RiderProjects\SegundoParcial\obj\Debug\SegundoParcial.csprojAssemblyReference.cache
+C:\Users\dtani\RiderProjects\SegundoParcial\obj\Debug\SegundoParcial.Properties.Resources.resources
+C:\Users\dtani\RiderProjects\SegundoParcial\obj\Debug\SegundoParcial.csproj.GenerateResource.cache
+C:\Users\dtani\RiderProjects\SegundoParcial\obj\Debug\SegundoParcial.exe
+C:\Users\dtani\RiderProjects\SegundoParcial\obj\Debug\SegundoParcial.pdb
+C:\Users\dtani\RiderProjects\SegundoParcial\obj\Debug\SegundoParcial.Form1.resources
+C:\Users\danie\OneDrive\Desktop\GS101119\parcial  2\SegundoParcial\bin\Debug\SegundoParcial.exe.config
+C:\Users\danie\OneDrive\Desktop\GS101119\parcial  2\SegundoParcial\bin\Debug\SegundoParcial.exe
+C:\Users\danie\OneDrive\Desktop\GS101119\parcial  2\SegundoParcial\bin\Debug\SegundoParcial.pdb
+C:\Users\danie\OneDrive\Desktop\GS101119\parcial  2\SegundoParcial\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\danie\OneDrive\Desktop\GS101119\parcial  2\SegundoParcial\bin\Debug\Npgsql.dll
+C:\Users\danie\OneDrive\Desktop\GS101119\parcial  2\SegundoParcial\bin\Debug\System.Buffers.dll
+C:\Users\danie\OneDrive\Desktop\GS101119\parcial  2\SegundoParcial\bin\Debug\System.Memory.dll
+C:\Users\danie\OneDrive\Desktop\GS101119\parcial  2\SegundoParcial\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\danie\OneDrive\Desktop\GS101119\parcial  2\SegundoParcial\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\danie\OneDrive\Desktop\GS101119\parcial  2\SegundoParcial\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\danie\OneDrive\Desktop\GS101119\parcial  2\SegundoParcial\bin\Debug\System.Text.Json.dll
+C:\Users\danie\OneDrive\Desktop\GS101119\parcial  2\SegundoParcial\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\danie\OneDrive\Desktop\GS101119\parcial  2\SegundoParcial\bin\Debug\System.ValueTuple.dll
+C:\Users\danie\OneDrive\Desktop\GS101119\parcial  2\SegundoParcial\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\danie\OneDrive\Desktop\GS101119\parcial  2\SegundoParcial\bin\Debug\Npgsql.pdb
+C:\Users\danie\OneDrive\Desktop\GS101119\parcial  2\SegundoParcial\bin\Debug\Npgsql.xml
+C:\Users\danie\OneDrive\Desktop\GS101119\parcial  2\SegundoParcial\bin\Debug\System.Buffers.xml
+C:\Users\danie\OneDrive\Desktop\GS101119\parcial  2\SegundoParcial\bin\Debug\System.Memory.xml
+C:\Users\danie\OneDrive\Desktop\GS101119\parcial  2\SegundoParcial\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\danie\OneDrive\Desktop\GS101119\parcial  2\SegundoParcial\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\danie\OneDrive\Desktop\GS101119\parcial  2\SegundoParcial\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\danie\OneDrive\Desktop\GS101119\parcial  2\SegundoParcial\bin\Debug\System.Text.Json.xml
+C:\Users\danie\OneDrive\Desktop\GS101119\parcial  2\SegundoParcial\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\danie\OneDrive\Desktop\GS101119\parcial  2\SegundoParcial\bin\Debug\System.ValueTuple.xml
+C:\Users\danie\OneDrive\Desktop\GS101119\parcial  2\SegundoParcial\obj\Debug\SegundoParcial.csprojAssemblyReference.cache
+C:\Users\danie\OneDrive\Desktop\GS101119\parcial  2\SegundoParcial\obj\Debug\SegundoParcial.exe.config
+C:\Users\danie\OneDrive\Desktop\GS101119\parcial  2\SegundoParcial\obj\Debug\SegundoParcial.Creaciones.resources
+C:\Users\danie\OneDrive\Desktop\GS101119\parcial  2\SegundoParcial\obj\Debug\SegundoParcial.Form1.resources
+C:\Users\danie\OneDrive\Desktop\GS101119\parcial  2\SegundoParcial\obj\Debug\SegundoParcial.InicioUsuario.resources
+C:\Users\danie\OneDrive\Desktop\GS101119\parcial  2\SegundoParcial\obj\Debug\SegundoParcial.Properties.Resources.resources
+C:\Users\danie\OneDrive\Desktop\GS101119\parcial  2\SegundoParcial\obj\Debug\SegundoParcial.csproj.GenerateResource.cache
+C:\Users\danie\OneDrive\Desktop\GS101119\parcial  2\SegundoParcial\obj\Debug\SegundoParcial.csproj.CopyComplete
+C:\Users\danie\OneDrive\Desktop\GS101119\parcial  2\SegundoParcial\obj\Debug\SegundoParcial.exe
+C:\Users\danie\OneDrive\Desktop\GS101119\parcial  2\SegundoParcial\obj\Debug\SegundoParcial.pdb
